@@ -1,0 +1,6 @@
+语雀文档集合
+实践任务：
+https://www.yuque.com/nightflame/cacr70/duz8tz4kqak95cgt?singleDoc# 《Git配置》
+https://www.yuque.com/nightflame/cacr70/nh5robz2eyum3ukx?singleDoc# 《Opencv的安装》
+https://www.yuque.com/nightflame/cacr70/dss9gpfyxhu2f0ho?singleDoc# 《Ros2的安装与配置》
+https://www.yuque.com/nightflame/cacr70/ww0b2ayk4g6mcmi5?singleDoc# 《VS Code的安装与配置》
